@@ -19,5 +19,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Relevant Links
 
-- [Live Website - Netlify](nicole-fake-store.netlify.app)
+- [Live Website - Netlify](https://nicole-hahn-qr-code-component.netlify.app/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
